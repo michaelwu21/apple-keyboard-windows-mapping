@@ -19,6 +19,8 @@ Features:
 
 - F4 -> View all windows
 
+Recommend adding these via sharpkeys:
+
 - F11 -> Mute
 
 - F12 -> Volume Up
